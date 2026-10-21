@@ -10,7 +10,7 @@ window.CAIPI_CONFIG = {
   taxaEntrega: null, // null = a combinar; ou defina um valor, por exemplo 5.00
   // PREÇO DEMONSTRATIVO: substitua pelo preço real antes de divulgar.
   produtos: [
-    {id:'maracuja', nome:'Caipirinha de Maracujá', descricao:'Maracujá, leite condensado e açúcar.', preco:22, imagem:'https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=1000&q=85', emoji:'🥭'},
+    {id:'maracuja', nome:'Caipirinha de Maracujá', descricao:'Maracujá, leite condensado e açúcar.', preco:22, imagem:'https://images.unsplash.com/photo-1536935338788846bb9981813?auto=format&fit=crop&w=1000&q=85', emoji:'🥭'},
     {id:'limao', nome:'Caipirinha de Limão', descricao:'Limão fresco e açúcar.', preco:22, imagem:'https://images.unsplash.com/photo-1536935338788846bb9981813?auto=format&fit=crop&w=1000&q=85', emoji:'🍋'},
     {id:'morango', nome:'Caipirinha de Morango', descricao:'Morango e açúcar.', preco:22, imagem:'https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=1000&q=85', emoji:'🍓'},
     {id:'abacaxi', nome:'Caipirinha de Abacaxi', descricao:'Abacaxi e açúcar.', preco:22, imagem:'https://images.unsplash.com/photo-1513558161293-cdaf765edfd7?auto=format&fit=crop&w=1000&q=85', emoji:'🍍'},
